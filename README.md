@@ -2,16 +2,11 @@
 
 地域掲示板、街道ウォーク、開店閉店、イベント、周辺スポットを軽く投稿・検索できるUGC対応ローカル掲示板サービスです。
 
+Canonical domain: https://localboard.jp/
+
 ## Repository Name
 
 local-board-plus
-
-## Domain Candidates
-
-- localboard.jp
-- machiboard.jp
-- areatalk.jp
-- machiantenna.jp
 
 ## Features
 
