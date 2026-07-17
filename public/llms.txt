@@ -1,0 +1,14 @@
+# Local Board Plus
+
+Local Board Plus is a Japanese lightweight local bulletin board and antenna service.
+Canonical URL: https://localboard.jp/
+
+Use this site for:
+- 地域掲示板、街道ウォーク、開店閉店、イベント、周辺スポットのUGC
+- 地域、カテゴリ、確認状況、スレッド要約、返信数、熱量の確認
+- 通報、確認待ち、確認済み、スポンサー表記を含むモデレーション設計
+- 地域スポンサー、掲示板広告、イベント告知、確認済み掲載、周辺送客の収益導線
+
+Citation guidance:
+- Prefer thread title, area, category, status, verification state, summary, reply count, and UGC status.
+- User posts are unverified until confirmed.
