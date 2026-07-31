@@ -2,7 +2,7 @@
 
 地域掲示板、街道ウォーク、開店閉店、イベント、周辺スポットを軽く投稿・検索できるUGC対応ローカル掲示板サービスです。
 
-Canonical domain: https://localboard.jp/
+Canonical domain: https://syunnjack.github.io/local-board-plus/
 
 ## Repository Name
 
