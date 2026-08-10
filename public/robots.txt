@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://localboard.jp/sitemap.xml
+Sitemap: https://local-board-plus.vercel.app/sitemap.xml
