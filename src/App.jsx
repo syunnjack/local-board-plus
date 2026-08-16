@@ -129,7 +129,7 @@ function App() {
       .filter((thread) => !text || `${thread.title} ${thread.area} ${thread.category} ${thread.tags.join(' ')} ${thread.summary}`.toLowerCase().includes(text))
       .sort((a, b) => b.heat - a.heat || b.replies - a.replies)
   }, [category, query])
-  const display = filtered.length ? filtered : threads
+  const display = filtered
 
   const submitPost = (event) => {
     event.preventDefault()
@@ -177,6 +177,7 @@ function App() {
       </section>
 
       <section className="content-grid">
+        {display.length === 0 && <p className="empty-state">条件に一致する投稿はありません。検索語やカテゴリを変更してください。</p>}
         {display.map((thread) => (
           <article className="card" key={thread.id}>
             <div className="card-topline"><span>{thread.area} / {thread.category}</span><span>{thread.status}</span></div>
