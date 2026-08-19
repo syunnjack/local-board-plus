@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://local-board-plus.vercel.app/sitemap.xml
+Disallow: /
